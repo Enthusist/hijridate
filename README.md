@@ -3,6 +3,7 @@
 <!-- start description -->
 
 > formerly `hijri-converter`
+this is a trial on forking
 
 A Python package for accurate Hijri-Gregorian date conversion using the Umm al-Qura calendar.
 
